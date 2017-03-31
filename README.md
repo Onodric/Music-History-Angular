@@ -2,11 +2,11 @@
 
 A front end developed in AngularJS supplied to the developers at Nowhere. Used to expose relevant API resources for view, creation, editing, or deletion of music library members in a user-friendly way.
 
-##Steps to Install
+## Steps to Install
 
 The API uses the Django framework, running on Python 3.6
 
-To install the project locally:
+#### To install the project locally:
 1. Start the API component:
   1. download or clone the [Music History Django API](https://github.com/Onodric/django-music-history)
   1. Set up [Python 3.6](https://www.python.org/) on your machine per the install instructions
@@ -23,14 +23,13 @@ To install the project locally:
     - [Api Root](http://localhost:8080)
     - [Admin Root](http://localhost:8000/admin)
 
-
-##Installed Dependencies 
+## Installed Dependencies 
 
 The API relies upon the following dependencies:
 
 1. Python >v.3.6
 1. Django >v1.10.5
 
-##System Config
+## System Config
 
 The API should run on all systems that meet the dependency requirements.
